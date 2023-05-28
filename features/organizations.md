@@ -1,3 +1,8 @@
+### AWS Organizations
+---
+**参考：**
+https://docs.aws.amazon.com/ja_jp/organizations/latest/userguide/orgs_introduction.html
+
 **特徴・概要：**
 - 複数のアカウントを統合するして一元管理を可能にする機能。
 - 予算、セキュリティ、コンプライアンスのニーズを満たすために、アカウント管理及び一括請求機能が備わっている。
